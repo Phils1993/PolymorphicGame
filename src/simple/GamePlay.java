@@ -36,7 +36,7 @@ public class GamePlay {
                     break;
                 }
             }
-            System.out.println("Do you want to procede y/n?");
+            System.out.println("Do you want to proceed y/n?");
             input = scanner.nextLine();
 
         }
